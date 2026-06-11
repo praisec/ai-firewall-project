@@ -1,0 +1,34 @@
+{
+    "whitelist": [
+      {
+        "domain": "claude.ai",
+        "approved_date": "2026-06-09",
+        "category": "AI Assistant"
+      },
+      {
+        "domain": "chatgpt.com",
+        "approved_date": "2026-06-09",
+        "category": "AI Assistant"
+      },
+      {
+        "domain": "platform.openai.com",
+        "approved_date": "2026-06-09",
+        "category": "AI Platform"
+      },
+      {
+        "domain": "huggingface.co",
+        "approved_date": "2026-06-09",
+        "category": "AI/ML Models"
+      },
+      {
+        "domain": "github.com",
+        "approved_date": "2026-06-09",
+        "category": "Development"
+      }
+    ],
+    "blocked": [],
+    "settings": {
+      "interface": "en0",
+      "auto_enforce": false
+    }
+  }
